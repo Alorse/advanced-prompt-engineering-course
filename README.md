@@ -11,8 +11,7 @@ This intensive course eliminates theoretical fluff and focuses exclusively on im
 This course is available in two languages:
 
 ### 🇺🇸 English Version
-- **[Course Structure](./en/course_structure.md)** - Complete course overview and learning outcomes
-- **[Module Index](./en/modules_index.md)** - Quick reference to all modules
+- **[Module Index](./en/modules_index.md)** - Complete course overview with module objectives and links
 
 #### Modules:
 1. **[Fundamentals](./en/module1_fundamentals.md)** - Core principles and structured methodologies
@@ -23,8 +22,7 @@ This course is available in two languages:
 6. **[Multimodal & Advanced](./en/module6_multimodal_advanced.md)** - Visual analysis and complex use cases
 
 ### 🇪🇸 Versión en Español
-- **[Estructura del Curso](./es/course_structure.md)** - Descripción completa del curso y objetivos
-- **[Índice de Módulos](./es/modules_index.md)** - Referencia rápida a todos los módulos
+- **[Índice de Módulos](./es/modules_index.md)** - Descripción completa del curso con objetivos y enlaces
 
 #### Módulos:
 1. **[Fundamentos](./es/module1_fundamentals.md)** - Principios básicos y metodologías estructuradas
